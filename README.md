@@ -4,4 +4,4 @@ Udemy Section 1.3: https://www.udemy.com/course/react-the-complete-guide-incl-re
 
 Created with CodeSandbox. Original Source Code is from https://codesandbox.io/p/sandbox/vanilla-js-demo-6049kj
 
-I modified the script to load the buttons dynamically.
+I modified the script to load the buttons dynamically on the index.js and index.html file.
